@@ -1,4 +1,4 @@
-import "./style.css";
+import './style.css';
 
 // Vue js class created in plain javascript
 export class Vue {
@@ -13,3 +13,12 @@ export class Vue {
     console.log(el);
   }
 }
+
+// module code Vue class clalled here
+new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello Vue!',
+    age: 23
+  }
+});

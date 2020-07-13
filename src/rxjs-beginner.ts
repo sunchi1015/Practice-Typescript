@@ -22,3 +22,5 @@ export class RXJSPractise {
       });
   }
 }
+
+new RXJSPractise();
