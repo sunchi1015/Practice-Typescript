@@ -1,4 +1,4 @@
-<p>Type script deep dive course.</p>
+<H3>Type script deep dive course.</H3>
 
 <ul>
 <li>Understanding Typescript-2020 Edition</li>
@@ -11,15 +11,21 @@
 <li>Once section completed repeate all the points.(Section Revision).</li>
 </ul> 
 
-# ===============================================================================================================
+<h3>11 - JS best practices</h3>
 
-# ======== 11 - JS best practices ================
-
-# Magic numbers - for number create constant or enums
-
-# Deep nesting
-
-# Stop writing comments
+<ul>
+<li>Magic numbers - for number create constant or enums</li>
+<li>Avoid Deep nesting</li>
+<li>Stop writing comments</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
 # Avoid lorge functions - SRP
 
