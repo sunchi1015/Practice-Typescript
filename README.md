@@ -1,16 +1,5 @@
 <H3>Type script deep dive course.</H3>
 
-<ul>
-<li>Understanding Typescript-2020 Edition</li>
-<li>Instructor Name - Maximilian Schwarzmüller.</li>
-<li>Start date - 12/03/2020</li>
-<li>Completed date -</li>
-<li>Status - Section 9 - video 121 - Running</li>
-<li>Once course completed then push to github own account.</li>
-<li>while reading create notes for each section</li>
-<li>Once section completed repeate all the points.(Section Revision).</li>
-</ul> 
-
 <h3>11 - JS best practices</h3>
 
 <ul>
